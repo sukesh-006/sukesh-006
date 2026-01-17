@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm R Sukesh</h1>
+<h3 align="center">B.Tech- Artificial Intelligence and Data Science Graduate</h3>
+<h3 align="center">Aspiring Software & AI Developer</h3>
 
-<!--
-**sukesh-006/sukesh-006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 💻 Learning Python, Machine Learning, and Software Development  
+- 🧠 Interested in AI, NLP, and real-world projects  
+- 📈 Improving problem solving and coding skills  
+- 🔭 Building projects for my GitHub portfolio  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Skills
+- Python  
+- Machine Learning  
+- TensorFlow / Keras  
+- Git & GitHub  
+- Basic Web Development
+- Java Programming
+
+---
+
+### 📊 My GitHub Stats
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+---
+
+### 📫 Contact
+- GitHub: https://github.com/sukesh-006
