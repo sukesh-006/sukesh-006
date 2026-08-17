@@ -236,5 +236,6 @@ Built responsive websites and dynamic applications using HTML, CSS, JavaScript, 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
-#   s u k e s h - r - a i d s  
+#   s u k e s h - r - a i d s 
+ 
  
